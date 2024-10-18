@@ -5,3 +5,5 @@ This is ReadMe File for this repository that will contain description for the fo
 This repo will contain all Telerik DevOps Execrcises.
 
 Most important of all this will be the first pushed file in the repo.
+
+Please be aware that this repo is under MIT Licence
