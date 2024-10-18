@@ -13,3 +13,5 @@ Most important of all this will be the first pushed file in the repo.
 Please be aware that this repo is under MIT Licence
 
 Since this repo is under the MIT licence please check what does that licence mean before using any of this code in this repo.
+
+Greetings
