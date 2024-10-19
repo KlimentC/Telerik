@@ -1,8 +1,8 @@
-_____________________________________________
+_________________________________________________
 
 #### ReadMe File For Telerik DevOps Course ####
 
-_____________________________________________
+_________________________________________________
 
 This is ReadMe File for this repository that will contain description for the folders that will follow inside this repo.
 
