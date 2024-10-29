@@ -1,0 +1,11 @@
+docker images -> Check local images
+docker ps -> Check running images
+docker ps -a -> Check ALL images
+docker inspect NameOfTheImage | jq -> Check the dockerFIle of the image
+docker run -d NameOfTheImage -> Run the image -d to be deatached so the cli can be free
+docker exec -it NameOfTheImage /bin/sh -> enter in the image, -it means running in interactive mode
+docker stop -> stop the image
+docker run -it --rm NameOfTheImage /bin/sh -> enter in the image but it will be removed after exiting
+docker exec NameOfTheImage mount -> check what is mounted on the contaner 
+docker ps -a -q -> List All containers 
+-m 32m --memory-swap 32m -> to define the RAm and memory swap limit
